@@ -1,0 +1,16 @@
+D:\backup\gamestudio\C#\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+D:\backup\gamestudio\C#\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+D:\backup\gamestudio\C#\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+D:\backup\gamestudio\C#\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+D:\backup\gamestudio\C#\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+D:\backup\gamestudio\C#\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+D:\backup\gamestudio\C#\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+D:\backup\gamestudio\C#\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\gamestudio\C#\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\backup\gamestudio\C#\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+D:\backup\gamestudio\C#\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\backup\gamestudio\C#\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+D:\backup\gamestudio\C#\Calculator\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+D:\backup\gamestudio\C#\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+D:\backup\gamestudio\C#\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+D:\backup\gamestudio\C#\Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
